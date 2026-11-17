@@ -1,7 +1,7 @@
 # Anotações
 ## Alguns comandos do git
 - **add**
-- **commit****
+- **commit**
 - **push**
 
 1. *add*: escolhe quais mudanças vão entrar no próximo commit (coloca no "staging").
